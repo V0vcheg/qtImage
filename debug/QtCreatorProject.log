@@ -1,0 +1,15 @@
+﻿  box.cpp
+  camera.cpp
+  evector.cpp
+  implicits.cpp
+  main.cpp
+  mesh-widget.cpp
+  mesh.cpp
+  meshcolor.cpp
+  qtemainwindow.cpp
+  ray.cpp
+  shader-api.cpp
+  triangle.cpp
+  moc_qte.cpp
+  moc_realtime.cpp
+  QtCreatorProject.vcxproj -> C:\Study\mif02\debug\QtCreatorProject.exe
